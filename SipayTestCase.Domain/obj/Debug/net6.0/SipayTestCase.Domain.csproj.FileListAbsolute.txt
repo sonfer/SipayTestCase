@@ -1,0 +1,11 @@
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/bin/Debug/net6.0/SipayTestCase.Domain.deps.json
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/bin/Debug/net6.0/SipayTestCase.Domain.dll
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/bin/Debug/net6.0/SipayTestCase.Domain.pdb
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/obj/Debug/net6.0/SipayTestCase.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/obj/Debug/net6.0/SipayTestCase.Domain.AssemblyInfoInputs.cache
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/obj/Debug/net6.0/SipayTestCase.Domain.AssemblyInfo.cs
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/obj/Debug/net6.0/SipayTestCase.Domain.csproj.CoreCompileInputs.cache
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/obj/Debug/net6.0/SipayTestCase.Domain.dll
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/obj/Debug/net6.0/refint/SipayTestCase.Domain.dll
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/obj/Debug/net6.0/SipayTestCase.Domain.pdb
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/obj/Debug/net6.0/ref/SipayTestCase.Domain.dll

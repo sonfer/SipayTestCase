@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hYjkzMqBXOMHyUTQBA+1+NHY4NoFmG80osGdJnc+2P8=",
+  "Source": "SipayTestCase.Api",
+  "BasePath": "_content/SipayTestCase.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,12 @@
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/bin/Debug/net6.0/SipayTestCase.Shared.deps.json
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/bin/Debug/net6.0/SipayTestCase.Shared.dll
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/bin/Debug/net6.0/SipayTestCase.Shared.pdb
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/obj/Debug/net6.0/SipayTestCase.Shared.csproj.AssemblyReference.cache
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/obj/Debug/net6.0/SipayTestCase.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/obj/Debug/net6.0/SipayTestCase.Shared.AssemblyInfoInputs.cache
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/obj/Debug/net6.0/SipayTestCase.Shared.AssemblyInfo.cs
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/obj/Debug/net6.0/SipayTestCase.Shared.csproj.CoreCompileInputs.cache
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/obj/Debug/net6.0/SipayTestCase.Shared.dll
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/obj/Debug/net6.0/refint/SipayTestCase.Shared.dll
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/obj/Debug/net6.0/SipayTestCase.Shared.pdb
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Shared/obj/Debug/net6.0/ref/SipayTestCase.Shared.dll

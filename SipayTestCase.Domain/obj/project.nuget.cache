@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RzQyxQp6oA7wr5bdDuaFJV5hozZUWl4vKqrD1G5mRnPovW2Hv0b1IbCJUXhcLTgX77W0EO0UH2fHFJHm9SO9mw==",
+  "success": true,
+  "projectFilePath": "/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Domain/SipayTestCase.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/sonferder/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "/Users/sonferder/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

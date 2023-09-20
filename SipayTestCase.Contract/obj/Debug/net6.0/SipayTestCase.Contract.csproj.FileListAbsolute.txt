@@ -1,0 +1,11 @@
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/bin/Debug/net6.0/SipayTestCase.Contract.deps.json
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/bin/Debug/net6.0/SipayTestCase.Contract.dll
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/bin/Debug/net6.0/SipayTestCase.Contract.pdb
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/obj/Debug/net6.0/SipayTestCase.Contract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/obj/Debug/net6.0/SipayTestCase.Contract.AssemblyInfoInputs.cache
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/obj/Debug/net6.0/SipayTestCase.Contract.AssemblyInfo.cs
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/obj/Debug/net6.0/SipayTestCase.Contract.csproj.CoreCompileInputs.cache
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/obj/Debug/net6.0/SipayTestCase.Contract.dll
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/obj/Debug/net6.0/refint/SipayTestCase.Contract.dll
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/obj/Debug/net6.0/SipayTestCase.Contract.pdb
+/Users/sonferder/Softrobotic/TestCase/SipayTestCase/SipayTestCase.Contract/obj/Debug/net6.0/ref/SipayTestCase.Contract.dll
